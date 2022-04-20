@@ -1,0 +1,8 @@
+E:\Kuliah\Responsi\Pemrograman\ResponsiPemograman4446\bin\Debug\ResponsiPemograman4446.exe.config
+E:\Kuliah\Responsi\Pemrograman\ResponsiPemograman4446\bin\Debug\ResponsiPemograman4446.exe
+E:\Kuliah\Responsi\Pemrograman\ResponsiPemograman4446\bin\Debug\ResponsiPemograman4446.pdb
+E:\Kuliah\Responsi\Pemrograman\ResponsiPemograman4446\obj\Debug\ResponsiPemograman4446.csproj.AssemblyReference.cache
+E:\Kuliah\Responsi\Pemrograman\ResponsiPemograman4446\obj\Debug\ResponsiPemograman4446.csproj.SuggestedBindingRedirects.cache
+E:\Kuliah\Responsi\Pemrograman\ResponsiPemograman4446\obj\Debug\ResponsiPemograman4446.csproj.CoreCompileInputs.cache
+E:\Kuliah\Responsi\Pemrograman\ResponsiPemograman4446\obj\Debug\ResponsiPemograman4446.exe
+E:\Kuliah\Responsi\Pemrograman\ResponsiPemograman4446\obj\Debug\ResponsiPemograman4446.pdb
